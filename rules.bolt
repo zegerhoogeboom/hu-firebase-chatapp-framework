@@ -1,0 +1,11 @@
+type Message {
+    //todo implement!
+}
+
+path /messages {
+    //todo implement!
+}
+
+path /messages/{id} is Message {
+    //todo implement!
+}

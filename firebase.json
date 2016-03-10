@@ -1,0 +1,10 @@
+{
+  "firebase": "CHANGE_ME",
+  "public": ".",
+  "rules":"rules.json",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
