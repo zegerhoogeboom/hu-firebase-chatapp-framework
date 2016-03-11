@@ -12,6 +12,7 @@ $(document).ready(function() {
   var $emailInput = $('#txtEmail');
   var $passInput = $('#txtPass');
   var $messageList = $("#messageList");
+  var $loginForm = $("#login_register");
   var $loginButton = $('#login_button');
   var $registerButton = $('#register_button');
   var $loggedInText = $("#loggedInText");
